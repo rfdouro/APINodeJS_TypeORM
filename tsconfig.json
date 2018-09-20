@@ -1,0 +1,9 @@
+{
+ "name": "romulo.douro",
+ "compileOnSave": true,
+ "emitDecoratorMetadata": true,
+ "compilerOptions":{
+  "experimentalDecorators": true,
+  "outDir": "build/"
+ }
+}

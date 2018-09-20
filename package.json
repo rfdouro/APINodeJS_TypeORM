@@ -1,0 +1,23 @@
+{
+ "name": "PrjNodeTypeORM",
+ "version": "1.0.0",
+ "keywords": [
+  "util",
+  "functional",
+  "server",
+  "client",
+  "browser"
+ ],
+ "author": "romulo.douro",
+ "contributors": [],
+ "dependencies": {
+  "typeorm": "0.2.7",
+  "reflect-metadata": "0.1.2",
+  "sqlite3": "4.0.2",
+  "express": "4.16.3",
+  "@types/node": "0.0.0"
+ },
+ "scripts": {
+  "start": "node build/server.js"
+ }
+}
